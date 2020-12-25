@@ -4,7 +4,7 @@
 
 > ###  This is ***Ruba*** and here are my `updets` and I hope you find them useful 
 
-![welcome Here](https://www.oregon.gov/omd/employeeresources/Documents/Welcome.png)
+![welcome Here](https://res.cloudinary.com/practicaldev/image/fetch/s--xk_bukJd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/mrwi729n6z36y41in2sh.jpg)
 
 
 Day | Link
