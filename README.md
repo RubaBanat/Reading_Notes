@@ -1,10 +1,11 @@
 # *Code 201* Reading Notes 
 
-## Welcome Here people 
+## Hello people!
 
-> ### HELLO! This is ***Ruba*** and here are my `updets` and I hope you find them useful 
+> ###  This is ***Ruba*** and here are my `updets` and I hope you find them useful 
 
--
+![welcome Here](https://www.oregon.gov/omd/employeeresources/Documents/Welcome.png)
+
 
 Day | Link
 ------------ | -------------
