@@ -1,7 +1,9 @@
 # *Code 201* Reading Notes 
 
 ## Welcome Here people 
+
 ### HELLO! This is **Ruba** and here are my updets and I hope you find them useful 
+
 
 
 Day | Link
