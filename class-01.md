@@ -10,12 +10,18 @@
 - HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
 
 1. HTML Structure :
+
 ![htmlstructure](/images/unnamedn.png)
 
+
 **Example of a Simple HTML Document**
+
 ![structure](/images/structure.png)
+
 The Result :
+
 ![result](/images/result.png)
+
 
 - HTML Tags :
 
@@ -24,10 +30,12 @@ something about the information that lies
 between their opening and closing tags.
 
 *Basic Tags* :
-![tags](https://pinks10.files.wordpress.com/2013/10/tags-doc.png)
+
+![basictags](https://pinks10.files.wordpress.com/2013/10/tags-doc.png)
+
 
 *To Learn more about Tags go there* :
- [tags](https://www.w3schools.com/tags/ref_byfunc.asp)
+ [Basictags](https://www.w3schools.com/tags/ref_byfunc.asp)
 
 2. Extra Markeup :
 
@@ -63,9 +71,12 @@ Examples of inline elements are
 - Escape Characters
 *Example of Escape Characters*
 
+
 ![escape](/images/escape_ch.jpg)
 
+
 3. HTML5 Layout :
+
 ![htmllayout](/images/layout.gif)
 
 - < header> - Defines a header for a document or a section
@@ -85,6 +96,7 @@ The < figcaption> tag defines a caption for a < figure> element. The < figcaptio
 
 Take a look on this Golden Circle 
 
+
 ![goldenCircle](/images/process&design.png)
 
 
@@ -101,7 +113,9 @@ To learn how to read and write the JavaScript language itself, you need to becom
 
 And Thier are the Three main sections you must learn :
 
+
 ![ABCofProgramming](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a5a71474-025c-4ffe-b8c1-373c30b8bd6c/ddqpdli-0d40da99-9f0a-4de4-b297-4ab197f457b2.png)
+
 
 **A**
 What is a script and how do I creat one ?
