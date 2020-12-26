@@ -72,7 +72,7 @@ Examples of inline elements are
 *Example of Escape Characters*
 
 
-![escape](/images/escape_ch.jpg)
+![escape](/images/escape-ch.jpg)
 
 
 3. HTML5 Layout :
