@@ -18,7 +18,7 @@
 **HTML Text Formatting Elements**
 
 
-![textFormating](/images/textformating.png)
+![textFormating](/images/Textformating.png)
 
 
 **Semantic Elements in HTML**
