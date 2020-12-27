@@ -10,7 +10,7 @@
 
 Day | Link
 ------------ | -------------
-Day 1 | [click me]()
+Day 1 | [click me](https://rubabanat.github.io/Reading_Notes/class-01)
 Day 2 | [click me]()
 Day 3 | [click me]()
 Day 4 | [click me]()
