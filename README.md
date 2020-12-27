@@ -11,7 +11,7 @@
 Day | Link
 ------------ | -------------
 Day 1 | [click me](https://rubabanat.github.io/Reading_Notes/class-01)
-Day 2 | [click me]()
+Day 2 | [click me](https://rubabanat.github.io/Reading_Notes/class-02)
 Day 3 | [click me]()
 Day 4 | [click me]()
 Day 5 | [click me]()
