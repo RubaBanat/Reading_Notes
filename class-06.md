@@ -65,7 +65,7 @@
 
 **EXAMPLE**
 
-![nodeList](images/nodeList.png)
+![nodeList](images/NodeList.png)
 
 
 ---
