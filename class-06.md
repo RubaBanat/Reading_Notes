@@ -40,5 +40,39 @@
 
 **Finding HTML Elements**
 
+*Often, with JavaScript, you want to manipulate HTML elements.*
+
+*To do so, you have to find the elements first. There are several ways to do this:*
+
+- Finding HTML elements by id
+- Finding HTML elements by tag name
+- Finding HTML elements by class name
+- Finding HTML elements by CSS selectors
+- Finding HTML elements by HTML object collections
+
+**The HTML DOM NodeList Object**
+
+- A NodeList object is a list (collection) of nodes extracted from a document.
+
+- A NodeList object is almost the same as an HTMLCollection object.
+
+- Some (older) browsers return a NodeList object instead of an HTMLCollection for methods like getElementsByClassName().
+
+- All browsers return a NodeList object for the property childNodes. 
+
+- Most browsers return a NodeList object for the method querySelectorAll().
 
 
+**EXAMPLE**
+
+![nodeList](images/nodeList.png)
+
+
+---
+
+
+![extraInfo](images/extrainfo.png)
+
+
+
+# THE END 
