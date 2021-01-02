@@ -10,21 +10,21 @@
 
 Day | Link
 ------------ | -------------
-Day 1 | [click me](https://rubabanat.github.io/Reading_Notes/class-01)
-Day 2 | [click me](https://rubabanat.github.io/Reading_Notes/class-02)
-Day 3 | [click me](https://rubabanat.github.io/Reading_Notes/class-03)
-Day 4 | [click me](https://rubabanat.github.io/Reading_Notes/class-04)
-Day 5 | [click me](https://rubabanat.github.io/Reading_Notes/class-05)
-Day 6 | [click me](https://rubabanat.github.io/Reading_Notes/class-06)
-Day 7 | [click me]()
-Day 8 | [click me]()
-Day 9 | [click me]()
-Day 10| [click me]()
-Day 11| [click me]()
-Day 12| [click me]()
-Day 13| [click me]()
-Day 14| [click me]()
-Day 15| [click me]()
+Day 1 | [Read 01](https://rubabanat.github.io/Reading_Notes/class-01)
+Day 2 | [Read 02](https://rubabanat.github.io/Reading_Notes/class-02)
+Day 3 | [Read 03](https://rubabanat.github.io/Reading_Notes/class-03)
+Day 4 | [Read 04](https://rubabanat.github.io/Reading_Notes/class-04)
+Day 5 | [Read 05](https://rubabanat.github.io/Reading_Notes/class-05)
+Day 6 | [Read 06](https://rubabanat.github.io/Reading_Notes/class-06)
+Day 7 | [Read 07]()
+Day 8 | [Read 08]()
+Day 9 | [Read 09]()
+Day 10| [Read 10]()
+Day 11| [Read 11]()
+Day 12| [Read 12]()
+Day 13| [Read 13]()
+Day 14| [Read 14]()
+Day 15| [Read 15]()
 
 
 
