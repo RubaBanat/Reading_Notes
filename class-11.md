@@ -2,6 +2,8 @@
 
 ##  Audio, Video, Images
 
+![audioVideo](images/audiovideo.jpg)
+
 ### Images
 
 *You can control the size of an image using the width and height properties in CSS, just like you can for any other box.* 
@@ -22,6 +24,51 @@ In conclusion :
 - Background images can appear just once or be repeated across the background of the box.
 - You can create image rollover effects by moving the background position of an image.
 - To reduce the number of images your browser has to load, you can create image sprites.
+
+
+### Audio and Video 
+
+**Audio**
+
+![audio](images/auditag.png)
+
+
+*To play an audio file in HTML, use the < audio> element:*
+
+![Audio](images/audio.png) 
+
+
+**HTML Audio - How It Works**
+
+- The controls attribute adds audio controls, like play, pause, and volume.
+
+- The < source> element allows you to specify alternative audio files which the browser may choose from. The browser will use the first recognized format.
+
+- The text between the < audio> and </ audio> tags will only be displayed in browsers that do not support the < audio> element.
+
+
+**Video**
+
+![video](images/videotag.png)
+
+
+*The HTML < video> element is used to show a video on a web page.*
+
+> To show a video in HTML, use the < video> element:
+
+![video](images/video.png)
+
+
+**How it Works**
+
+- The controls attribute adds video controls, like play, pause, and volume.
+
+- It is a good idea to always include width and height attributes. If height and width are not set, the page might flicker while the video loads.
+
+- The < source> element allows you to specify alternative video files which the browser may choose from. The browser will use the first recognized format.
+
+- The text between the < video> and </ video> tags will only be displayed in browsers that do not support the < video> element.
+
 
 
 ### Practical Information 
