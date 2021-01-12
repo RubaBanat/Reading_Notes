@@ -1,6 +1,6 @@
 # What Google Learned From Its Quest to Build the Perfect Team
 
-![Team](images/team.png)
+![Team](images/Team.png)
 
 __________________________________________
 
