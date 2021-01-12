@@ -23,7 +23,8 @@ Day 10| [Read 10](https://rubabanat.github.io/Reading_Notes/class-10)
 Day 11| [Read 11](https://rubabanat.github.io/Reading_Notes/class-11)
 Day 12| [Read 12](https://rubabanat.github.io/Reading_Notes/class-12)
 Day 13| [Read 13](https://rubabanat.github.io/Reading_Notes/class-13)
-Day 14| [Read 14]()
+Day 14| [Read 14a]()
+Day 14| [Read 14b]()
 Day 15| [Read 15]()
 
 
